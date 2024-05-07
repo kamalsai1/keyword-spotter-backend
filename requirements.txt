@@ -1,0 +1,6 @@
+torch
+librosa
+soundfile
+flask
+pydub
+flask-cors
