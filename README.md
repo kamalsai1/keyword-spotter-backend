@@ -6,7 +6,7 @@
 The **SpokenKeyword_Spotting** project is an advanced keyword detection system capable of recognizing spoken keywords in nine different Indian languages. This robust solution aims to facilitate rapid and accurate keyword spotting to improve accessibility and efficiency in healthcare communications. Funded under the healthcare informatics initiative, the project runs from January 2024 to March 2024.
 
 ### Project Lead By:
-Ast.Professor. Sarkar Achintya IIIT Sricity
+Ast.Professor. Dr. Achintya Kumar Sarkar, IIIT Sricity
 
 ## Front End Github Link:
 https://github.com/kamalsai1/keyword-spotter
