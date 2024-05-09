@@ -53,6 +53,6 @@ For major questions, support, or collaboration, please contact:
 IIITS Research Team.
 
 ### Acknowledgements
-Thanks to all 3 contributors who have invested their time in improving this project. (Palle Pranay Reddy, Amal S, KamalSai Yalamarthi)
-Special thanks to healthcare professionals providing insights that guide the development of our solutions.
+Thanks to all contributors who have invested their time in improving this project.
+Special thanks to healthcare professionals providing insights that guide the development of our solutions. 
 
