@@ -35,7 +35,7 @@ python keyword_spotting.py --input path_to_your_audio_file.wav
 ### Demo
 View a demonstration of the system in action through images and a video walkthrough:
 Video Demonstration 
-# amal bro add video images & audio files here
+### amal bro add links of video images & audio files above, first upload those to github
 
 ### Testing
 Test the system using the provided audio samples to validate performance:
