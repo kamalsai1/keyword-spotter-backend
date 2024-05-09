@@ -42,7 +42,7 @@ Demonstrating Images:
 ![Image3](Demo3.png)
 
 ## Video Demonstration:
-[![KWS_Demonstration](Demo3.png)](VideoDemo.mp4)
+[![KWS_Demonstration]](VideoDemo.mp4)
 
 
 ### Testing
